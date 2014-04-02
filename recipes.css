@@ -1,0 +1,29 @@
+body
+{
+    background-image:url('cookbook.jpg');
+    background-size:100% auto;
+    font-family: 'Ceviche One', cursive;
+    width:100%
+}
+#container
+{
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid red;
+/*    opacity:0.5; */
+    background: rgba(255, 255, 255, .5); 
+    
+}
+    
+#text
+{
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+    h1 {font-size:40px;}
+    h2 {font-size:30px;}
+    p {font-size:25px;}
+    ol {font-size:18px;}
